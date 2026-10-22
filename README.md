@@ -1,47 +1,76 @@
-Retail Sales Analysis | Excel & Power BI
+Retail Sales Analysis Dashboard (Excel & Power BI)
 
 Project Overview
 
-This project analyses retail sales data to identify sales trends, evaluate product category performance, compare store performance, and generate actionable business recommendations.
+This project focuses on analyzing retail sales data to uncover meaningful business insights, monitor key performance indicators (KPIs), and support data-driven decision-making.
 
-The project demonstrates my ability to clean data, analyse business performance, build dashboards, and communicate data-driven insights.
+The project involved cleaning and preparing a messy retail dataset, analyzing sales performance, and building interactive dashboards using Microsoft Excel and Power BI.
 
-Tools Used
+Objectives
 
-- Microsoft Excel — data cleaning, analysis, and dashboard development
-- Microsoft Power BI — interactive data visualisation and business intelligence
+- Analyze overall retail sales performance.
+- Track key sales KPIs.
+- Identify sales trends and patterns.
+- Compare sales performance across products, categories, brands, stores, and cities.
+- Provide actionable insights to support business decisions.
 
-Business Objectives
+Tools & Technologies
 
-- Evaluate sales performance across product categories and store locations.
-- Identify monthly sales trends and fluctuations.
-- Understand customer segments and purchasing patterns.
-- Provide recommendations to support inventory management and sales planning.
+- Microsoft Excel — Data cleaning, analysis, pivot tables, and dashboard development.
+- Microsoft Power BI — Data visualization, interactive reporting, and dashboard development.
+- DAX — Measures and calculations for Power BI analysis.
 
-Key Business Insights
+Project Workflow
 
-- Groceries and Frozen products were among the leading sales categories in the analysis.
-- Victoria Island and Ikeja City were among the stronger-performing store locations.
-- Monthly sales fluctuated, with changes observed in September, October, and December.
-- Incomplete customer type information highlighted opportunities to improve data quality.
+1. Data Cleaning: Identified and addressed data quality issues, including missing values, duplicates, inconsistent formats, and other data inconsistencies.
+2. Data Preparation: Organized the cleaned dataset for analysis.
+3. Data Analysis: Examined sales performance and calculated relevant KPIs.
+4. Dashboard Development: Created dashboards in Excel and Power BI to present the results visually.
+5. Insights & Recommendations: Used the findings to identify opportunities for improving retail performance.
 
-Recommendations
+Key Performance Indicators (KPIs)
 
-- Maintain adequate stock of high-performing product categories.
-- Investigate the reasons for lower sales in weaker-performing categories and locations.
-- Use historical sales trends to improve inventory and promotional planning.
-- Improve customer data collection and validation.
-- Evaluate promotions based on their impact on sales and profitability.
+The analysis focused on key retail metrics, including:
+
+- Total Revenue
+- Total Transactions
+- Average Order Value (AOV)
+- Sales performance across different retail dimensions
+
+Dashboard Features
+
+- Sales performance overview
+- KPI summary
+- Sales analysis by product and category
+- Store and city comparisons
+- Interactive data visualizations
+
+Business Value
+
+The project demonstrates how data analytics can help retail businesses monitor performance, understand sales patterns, identify areas for improvement, and make informed business decisions.
 
 Project Files
 
-- "CLEANED.xlsx" — Excel dashboard and analysis workbook.
-- "DATA.xlsx" — retail sales dataset used in the project.
+- Dataset: Original retail sales dataset.
+- Cleaned Dataset: Prepared data used for analysis.
+- Excel Dashboard: Sales analysis and visual reporting in Excel.
+- Power BI Dashboard: Interactive sales dashboard built in Power BI.
+
+Skills Demonstrated
+
+- Data cleaning and preparation
+- Exploratory data analysis
+- Microsoft Excel
+- Power BI
+- DAX
+- KPI development
+- Data visualization
+- Business insights and analytical thinking
 
 Conclusion
 
-This project demonstrates how Excel and Power BI can transform retail sales data into useful business insights that support informed decision-making.
+This project demonstrates my ability to transform raw retail sales data into structured information and visual reports that support business decision-making. It represents part of my ongoing journey in developing practical data analytics skills.
 
-Author
-AYODEJI ORIMOLADE
-Aspiring Data Analyst | Excel | SQL | Power BI
+Author: Ayodeji Orimolade
+
+Tools: Microsoft Excel | Power BI | DAX
